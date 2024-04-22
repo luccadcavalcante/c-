@@ -1,0 +1,14 @@
+E:\c#\NovaPasta\NovoProjeto\bin\Debug\net8.0\NovoProjeto.exe
+E:\c#\NovaPasta\NovoProjeto\bin\Debug\net8.0\NovoProjeto.deps.json
+E:\c#\NovaPasta\NovoProjeto\bin\Debug\net8.0\NovoProjeto.runtimeconfig.json
+E:\c#\NovaPasta\NovoProjeto\bin\Debug\net8.0\NovoProjeto.dll
+E:\c#\NovaPasta\NovoProjeto\bin\Debug\net8.0\NovoProjeto.pdb
+E:\c#\NovaPasta\NovoProjeto\obj\Debug\net8.0\NovoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\NovaPasta\NovoProjeto\obj\Debug\net8.0\NovoProjeto.AssemblyInfoInputs.cache
+E:\c#\NovaPasta\NovoProjeto\obj\Debug\net8.0\NovoProjeto.AssemblyInfo.cs
+E:\c#\NovaPasta\NovoProjeto\obj\Debug\net8.0\NovoProjeto.csproj.CoreCompileInputs.cache
+E:\c#\NovaPasta\NovoProjeto\obj\Debug\net8.0\NovoProjeto.dll
+E:\c#\NovaPasta\NovoProjeto\obj\Debug\net8.0\refint\NovoProjeto.dll
+E:\c#\NovaPasta\NovoProjeto\obj\Debug\net8.0\NovoProjeto.pdb
+E:\c#\NovaPasta\NovoProjeto\obj\Debug\net8.0\NovoProjeto.genruntimeconfig.cache
+E:\c#\NovaPasta\NovoProjeto\obj\Debug\net8.0\ref\NovoProjeto.dll
